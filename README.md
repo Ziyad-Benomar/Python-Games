@@ -8,5 +8,4 @@ But I guarantee that they work perfectly ;)
 
 I will review these scripts and I will improve them as soon as I have the time to do so!
 
-#############################################################  
 
